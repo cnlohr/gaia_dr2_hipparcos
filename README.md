@@ -1,3 +1,5 @@
+## DISCLAIMER: THIS PROJECT IS INCOMPLETE AS COMMITTED.  It does not perform the correlation from DR2->HIP completely.
+
 # Gaia DR2 processor for interstitial use with Hipparcos for use with computer graphics.
 
 The idea of this project is to provide a large subsection of the Gaia DR2 stars
